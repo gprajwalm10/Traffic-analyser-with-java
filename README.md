@@ -72,5 +72,3 @@ $ python3 plugin/traffic-analyser-python-plugin.py -i samples/myExportedData.csv
 ```
 After running this command, you should be able to find the file "out.pdf" with the generated chart.
 
-## License
-MIT
